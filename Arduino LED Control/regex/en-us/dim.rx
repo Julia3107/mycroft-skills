@@ -1,0 +1,1 @@
+(set|turn) the (?P<ledName>.*) LED to (?P<brightnessValue>.*)
