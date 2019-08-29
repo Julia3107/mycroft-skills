@@ -1,1 +1,1 @@
-turn the (?P<ledName>.*) LED (?P<actionName>.*)
+turn the (?P<ledName>.*) L E D (?P<actionName>.*)
